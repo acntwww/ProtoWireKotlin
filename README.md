@@ -1,0 +1,1 @@
+SEE: https://medium.com/@acntwww/android-protobuf-with-kotlin-and-wire-b4ab98dd4f15
